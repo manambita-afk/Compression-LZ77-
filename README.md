@@ -62,11 +62,12 @@ Ce format est propre au projet : il n'est pas compatible avec gzip, zip ou 7-zip
 
 *(à remplir avec la sortie de la commande `bench` et les captures d'écran du PDF)*
 
-Type	Fichier	  Original	  Compressé	     Taux	         Aller-retour
-Texte	texte.txt   147,3 Ko	34,6 Ko	     23,5 %	            OK
-Audio	audio.wav	130,7 Ko	182,2 Ko	 139,4 %	        OK
-Image	image.bmp	225,1 Ko	43,9 Ko	     19,5 %	            OK
-Vidéo	video.mp4	37,0 Ko	    44,6 Ko	     120,6 %	        OK
+| Type | Fichier | Original | Compressé | Taux | Aller-retour |
+|---|---|---|---|---|---|
+| Texte | texte.txt | 147,3 Ko | 34,6 Ko | 23,5 % | OK |
+| Audio | audio.wav | 130,7 Ko | 182,2 Ko | 139,4 % | OK |
+| Image | image.bmp | 225,1 Ko | 43,9 Ko | 19,5 % | OK |
+| Vidéo | video.mp4 | 37,0 Ko | 44,6 Ko | 120,6 % | OK |
 
 ## Limites
 
